@@ -1,2 +1,6 @@
 3fa65cba43aa57f5e8665ed765bbffd6
 https://api.themoviedb.org/3/search/movie?api_key=3fa65cba43aa57f5e8665ed765bbffd6&query=Jack+Reacher
+
+HTTP sur mobile ;
+Allez sur le lien : chrome://inspect/#devices
+Entrer dans l'url de l'emulateur: http://localhost:5500
